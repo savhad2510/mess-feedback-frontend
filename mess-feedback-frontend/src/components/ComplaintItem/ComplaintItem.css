@@ -1,0 +1,23 @@
+.complaint-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.complaint-item p {
+  margin: 0 0 10px;
+}
+
+.complaint-item input[type="text"] {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.complaint-item input[type="file"] {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.complaint-item button {
+  margin-right: 10px;
+}

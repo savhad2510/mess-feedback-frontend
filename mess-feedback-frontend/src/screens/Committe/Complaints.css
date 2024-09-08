@@ -1,0 +1,13 @@
+.complaints {
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+  }
+  
+  .complaint {
+    background-color: #f8f9fa;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border-left: 5px solid #dee2e6;
+  }
